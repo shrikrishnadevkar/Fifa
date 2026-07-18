@@ -1,0 +1,6 @@
+{
+  "name": "ArenaMind AI",
+  "description": "Futuristic AI Operations Brain and Smart Assistant for FIFA World Cup 2026 Stadiums, managing crowd density, security, emergency response, and fan experience.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
